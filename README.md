@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![Framework](https://img.shields.io/badge/framework-Streamlit-brightgreen)
 ![Model](https://img.shields.io/badge/model-ResNet18-orange)
-[![Live Demo](https://img.shields.io/badge/HuggingFace-Live%20Demo-yellow)]
 
 **What:**  
 Upload a chest image (PNG, JPG, DICOM) → see a toy prediction + a Grad-CAM heatmap overlay showing where the model “looked”.
@@ -30,7 +29,7 @@ Demonstrates ability to:
 
 ## Quick start
 
-- **GitHub repo:** [Clinical AI v0.1](https://github.com/MattiaLongo06/clinical-ai-v0.1)
+- **GitHub repo:** [Clinical AI v0.1](https://github.com/mattialollongo/clinical-ai-v0.1)
 
 ---
 
