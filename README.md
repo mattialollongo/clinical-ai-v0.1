@@ -30,7 +30,6 @@ Demonstrates ability to:
 
 ## Quick start
 
-- **Online demo:** TBD (Hugging Face Spaces link)
 - **GitHub repo:** [Clinical AI v0.1](https://github.com/MattiaLongo06/clinical-ai-v0.1)
 
 ---
